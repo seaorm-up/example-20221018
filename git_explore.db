@@ -1,0 +1,4 @@
+version = "0.0.7"
+git_repos = ["\\\\?\\D:\\rust\\backend\\sdk1018", "\\\\?\\D:\\rust\\backend\\sdk1018\\common", "\\\\?\\D:\\rust\\backend\\sdk1018\\data-dict", "\\\\?\\D:\\rust\\backend\\sdk1018\\entities"]
+cargo_repos = ["\\\\?\\D:\\rust\\backend\\sdk1018\\Cargo.toml", "\\\\?\\D:\\rust\\backend\\sdk1018\\common\\Cargo.toml", "\\\\?\\D:\\rust\\backend\\sdk1018\\data-dict\\Cargo.toml", "\\\\?\\D:\\rust\\backend\\sdk1018\\entities\\entities\\Cargo.toml", "\\\\?\\D:\\rust\\backend\\sdk1018\\entities\\migration\\Cargo.toml"]
+pubspec_repos = []

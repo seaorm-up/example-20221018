@@ -1,0 +1,6 @@
+/target
+/Cargo.lock
+common/**
+data-dict/**
+entities/**
+CHANGELOG.md
