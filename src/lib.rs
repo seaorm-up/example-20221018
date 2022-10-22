@@ -15,3 +15,4 @@
 //! git rm --cached -r -f -- data-dict
 //! #.gitignore
 //! ```
+pub use entities::*;
